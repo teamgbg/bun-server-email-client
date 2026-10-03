@@ -33,7 +33,7 @@
 		"./types": "./src/types.ts",
 		"./types.ts": "./src/types.ts"
 	},
-	"repository": "https://github.com/teamgbg/bun-server-email-client",
+	"repository": "https://github.com/teamgbg/server-email-client-ts",
 	"publishConfig": {
 		"registry": "https://registry.npmjs.org"
 	}
